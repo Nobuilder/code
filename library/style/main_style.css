@@ -45,19 +45,29 @@
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
 }
+
 #twenty-blur {
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
 }
+
 #thirty-blur {
     backdrop-filter: blur(30px);
     -webkit-backdrop-filter: blur(30px);
 }
+
 #fourty-blur {
     backdrop-filter: blur(40px);
     -webkit-backdrop-filter: blur(40px);
 }
+
 #fifty-blur {
     backdrop-filter: blur(50px);
     -webkit-backdrop-filter: blur(50px);
+}
+
+
+/* Shadow Text */
+#shadow-text {
+    text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.4);
 }
