@@ -90,3 +90,10 @@
     bottom: 0px !important;
     inset: auto auto 0 0 !important;
 }
+
+/* None Click */
+#none_click {
+    pointer-events: none;
+}
+
+/* 테스트 수정 */
