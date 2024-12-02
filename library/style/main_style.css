@@ -92,8 +92,6 @@
 }
 
 /* None Click */
-#none_click {
+#none-click {
     pointer-events: none;
 }
-
-/* 테스트 수정 333333 */
