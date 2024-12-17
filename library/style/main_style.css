@@ -1,3 +1,10 @@
+/* ANIMATION TEXT*/
+@import url("animation/text/blur-out.css");
+@import url("animation/text/flicker.css");
+@import url("animation/text/focus-in.css");
+@import url("animation/text/pop-up.css");
+@import url("animation/text/shadow-drop.css");
+@import url("animation/text/shadow-pop.css");
 @import url("animation/text/tracking-in.css");
 @import url("animation/text/tracking-out.css");
 
